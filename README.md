@@ -5,7 +5,7 @@
 [![Build](https://img.shields.io/badge/SupportInTermux-orange.svg)]()
 
 # Informasi
-**Fakeroot** 
+**Fakeroot** <br>
 Fakeroot Adalah Tools Untuk Memberikan Akses Root Di Termux Kita
 
 # Install
