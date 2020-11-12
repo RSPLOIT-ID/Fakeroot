@@ -1,6 +1,6 @@
 # Fakeroot
 
-[![Build](https://img.shields.io/badge/Author%20By-RSPLOIT%20ID-green?style=for-the-badge&logo=appveyor)]()
+[![Build](https://img.shields.io/badge/Author%20By-RSPLOIT%20ID-green?style=for-the-badge&logo=appveyor)]()<br>
 [![Build](https://img.shields.io/badge/Fakeroot-1.0-brightgreen.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/SupportInTermux-orange.svg)]()
 
